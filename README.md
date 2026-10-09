@@ -1,7 +1,7 @@
 # Классификация сортов вина (kNN)
 
 Учебный ML-проект: многоклассовая классификация сортов вина по химическим признакам.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GEAR-company-offical/wine-classification-knn/blob/main/wine_classification_knn.ipynb)
 ## Задача
 
 По 13 химическим признакам вина (алкоголь, магний, фенолы и т.д.) определить его сорт.  
